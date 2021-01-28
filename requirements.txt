@@ -1,3 +1,4 @@
 sympy>=1.6
 matplotlib>=2.0
+pygraphviz
 networkx
